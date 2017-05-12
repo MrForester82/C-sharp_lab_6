@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C-sharp_lab_6-part_2", "C-s
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C-sharp_lab_6-part_3", "C-sharp_lab_6-part_3\C-sharp_lab_6-part_3.csproj", "{5FEFE887-8434-4E46-8181-806D25BD7C6C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C-sharp_lab_6-part_4", "C-sharp_lab_6-part_4\C-sharp_lab_6-part_4.csproj", "{A828FC43-FA02-4900-9C99-60443A545D8F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{5FEFE887-8434-4E46-8181-806D25BD7C6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FEFE887-8434-4E46-8181-806D25BD7C6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FEFE887-8434-4E46-8181-806D25BD7C6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A828FC43-FA02-4900-9C99-60443A545D8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A828FC43-FA02-4900-9C99-60443A545D8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A828FC43-FA02-4900-9C99-60443A545D8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A828FC43-FA02-4900-9C99-60443A545D8F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
